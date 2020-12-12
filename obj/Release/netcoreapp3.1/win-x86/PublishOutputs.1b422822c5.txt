@@ -1,0 +1,2 @@
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\HappyNewYear.pdb
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\HappyNewYear.exe

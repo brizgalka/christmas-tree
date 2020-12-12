@@ -1,0 +1,12 @@
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\HappyNewYear.exe
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\HappyNewYear.dll
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\HappyNewYear.deps.json
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\HappyNewYear.runtimeconfig.json
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\HappyNewYear.pdb
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\System.Drawing.Common.dll
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\System.Windows.Extensions.dll
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

@@ -1,0 +1,7 @@
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\obj\Release\net5.0\HappyNewYear.csprojAssemblyReference.cache
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\obj\Release\net5.0\HappyNewYear.Properties.Resources.resources
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\obj\Release\net5.0\HappyNewYear.csproj.GenerateResource.cache
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\obj\Release\net5.0\HappyNewYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\obj\Release\net5.0\HappyNewYear.AssemblyInfoInputs.cache
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\obj\Release\net5.0\HappyNewYear.AssemblyInfo.cs
+C:\Users\Nerovik\Desktop\HappyNewYear\HappyNewYear\obj\Release\net5.0\HappyNewYear.csproj.CoreCompileInputs.cache
